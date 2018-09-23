@@ -5,10 +5,12 @@ Implement Lodash and Lodash source code analysis
 - lodash
 
 ## 运行
-- 直接在根目录类似index.js进行Lodash函数的运行和调试，自己尝试写出其中实现逻辑
-
+- 首先安装Lodash函数库
 ```
 npm i --save lodash
+```
+- 然后直接在根目录类似index.js进行Lodash函数的运行和调试，自己尝试写出其中实现逻辑
+```
 node  index.js
 ```
 - 对应的Lodash模块函数源码都在node-modules/文件夹中
